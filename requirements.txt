@@ -1,0 +1,10 @@
+# external requirements
+jupyter
+matplotlib
+numpy
+opencv-python
+# seaborn
+scipy
+scikit-learn
+# tikzplotlib
+tqdm

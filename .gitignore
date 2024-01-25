@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 code/datasets/
-code/models/
+code/best_checkpoint.model
