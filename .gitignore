@@ -161,3 +161,5 @@ cython_debug/
 
 code/datasets/
 code/best_checkpoint.model
+
+try_1/
