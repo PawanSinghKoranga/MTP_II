@@ -165,3 +165,6 @@ code/best_checkpoint.model
 try_1/
 
 datasets
+/code/best_checkpoint_CASIA.model
+/code/best_checkpoint_CASIA.pt
+/code/model_CASIA.pt
